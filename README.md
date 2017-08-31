@@ -1,4 +1,4 @@
-h1 Multithread trial division
+Multithread trial division
 =================
 The program is meant for perform multithread integer factorization by trial division algorithm (for general approach to singlethread trial division see <https://en.wikipedia.org/wiki/Trial_division>).
 
