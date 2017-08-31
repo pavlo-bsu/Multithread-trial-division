@@ -15,4 +15,4 @@ The program algorithm is implemented in a class `TrialDivisionMT` (TrialDivision
 
 Initial number from which the divisors search begins can be specified in a constructor of  the `TrialDivisionMT` class.
 
-The dividend and the divisors are stored at `System.Numerics.BigInteger` variables. To calculate a square root of a `BigInteger` variable, use the method specified in <https://stackoverflow.com/questions/3432412/calculate-square-root-of-a-biginteger-system-numerics-biginteger>. The method is implemented in a class 'BigIntegerExtension' (BigIntegerExtension.cs) by extension method.
+The dividend and the divisors are stored at `System.Numerics.BigInteger` variables. To calculate a square root of a `BigInteger` variable, use the method specified in <https://stackoverflow.com/questions/3432412/calculate-square-root-of-a-biginteger-system-numerics-biginteger>. The method is implemented in a class `BigIntegerExtension` (BigIntegerExtension.cs) by extension method.
